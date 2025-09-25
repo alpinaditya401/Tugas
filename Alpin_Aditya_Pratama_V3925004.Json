@@ -1,0 +1,560 @@
+{
+    "data_identitas_penduduk": [
+        {
+            "nik": "3578010100010001",
+            "nama": "Andi Saputra",
+            "alamat": "Jl. Merdeka No.1"
+        },
+        {
+            "nik": "3578010100010002",
+            "nama": "Rina Kartika",
+            "alamat": "Jl. Mawar No.2"
+        },
+        {
+            "nik": "3578010100010003",
+            "nama": "Budi Santoso",
+            "alamat": "Jl. Melati No.3"
+        },
+        {
+            "nik": "3578010100010004",
+            "nama": "Siti Aminah",
+            "alamat": "Jl. Kenanga No.4"
+        },
+        {
+            "nik": "3578010100010005",
+            "nama": "Dedi Kurniawan",
+            "alamat": "Jl. Dahlia No.5"
+        },
+        {
+            "nik": "3578010100010006",
+            "nama": "Lina Marlina",
+            "alamat": "Jl. Flamboyan No.6"
+        },
+        {
+            "nik": "3578010100010007",
+            "nama": "Rizky Hadi",
+            "alamat": "Jl. Sakura No.7"
+        },
+        {
+            "nik": "3578010100010008",
+            "nama": "Tina Sari",
+            "alamat": "Jl. Teratai No.8"
+        },
+        {
+            "nik": "3578010100010009",
+            "nama": "Agus Prasetyo",
+            "alamat": "Jl. Mawar No.9"
+        },
+        {
+            "nik": "3578010100010010",
+            "nama": "Nina Lestari",
+            "alamat": "Jl. Melati No.10"
+        },
+        {
+            "nik": "3578010100010011",
+            "nama": "Eko Wahyudi",
+            "alamat": "Jl. Merpati No.11"
+        },
+        {
+            "nik": "3578010100010012",
+            "nama": "Dewi Anggraini",
+            "alamat": "Jl. Rajawali No.12"
+        },
+        {
+            "nik": "3578010100010013",
+            "nama": "Fajar Nugroho",
+            "alamat": "Jl. Cendrawasih No.13"
+        },
+        {
+            "nik": "3578010100010014",
+            "nama": "Yuni Astuti",
+            "alamat": "Jl. Elang No.14"
+        },
+        {
+            "nik": "3578010100010015",
+            "nama": "Hendra Wijaya",
+            "alamat": "Jl. Garuda No.15"
+        },
+        {
+            "nik": "3578010100010016",
+            "nama": "Maya Fitri",
+            "alamat": "Jl. Merak No.16"
+        },
+        {
+            "nik": "3578010100010017",
+            "nama": "Dian Permata",
+            "alamat": "Jl. Kutilang No.17"
+        },
+        {
+            "nik": "3578010100010018",
+            "nama": "Rudi Hartono",
+            "alamat": "Jl. Jalak No.18"
+        },
+        {
+            "nik": "3578010100010019",
+            "nama": "Sari Dewi",
+            "alamat": "Jl. Nuri No.19"
+        },
+        {
+            "nik": "3578010100010020",
+            "nama": "Bayu Saputra",
+            "alamat": "Jl. Cempaka No.20"
+        },
+        {
+            "nik": "3578010100010021",
+            "nama": "Lilis Kartini",
+            "alamat": "Jl. Mawar No.21"
+        },
+        {
+            "nik": "3578010100010022",
+            "nama": "Taufik Hidayat",
+            "alamat": "Jl. Melati No.22"
+        },
+        {
+            "nik": "3578010100010023",
+            "nama": "Nani Susanti",
+            "alamat": "Jl. Dahlia No.23"
+        },
+        {
+            "nik": "3578010100010024",
+            "nama": "Yoga Pratama",
+            "alamat": "Jl. Kenanga No.24"
+        },
+        {
+            "nik": "3578010100010025",
+            "nama": "Dewi Lestari",
+            "alamat": "Jl. Anggrek No.25"
+        }
+    ],
+    "data_rekaman_cctv": [
+        {
+            "id_rekaman": "CCTV001",
+            "lokasi": "Bundaran HI",
+            "waktu": "2025-08-28T14:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV002",
+            "lokasi": "Monas",
+            "waktu": "2025-08-28T15:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV003",
+            "lokasi": "Stasiun Sudirman",
+            "waktu": "2025-08-28T16:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV004",
+            "lokasi": "Sarinah",
+            "waktu": "2025-08-28T17:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV005",
+            "lokasi": "Thamrin City",
+            "waktu": "2025-08-28T18:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV006",
+            "lokasi": "Tanah Abang",
+            "waktu": "2025-08-28T19:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV007",
+            "lokasi": "Senayan",
+            "waktu": "2025-08-28T20:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV008",
+            "lokasi": "GBK",
+            "waktu": "2025-08-28T21:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV009",
+            "lokasi": "Slipi",
+            "waktu": "2025-08-28T22:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV010",
+            "lokasi": "Palmerah",
+            "waktu": "2025-08-28T23:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV011",
+            "lokasi": "Kuningan",
+            "waktu": "2025-08-29T00:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV012",
+            "lokasi": "Menteng",
+            "waktu": "2025-08-29T01:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV013",
+            "lokasi": "Cikini",
+            "waktu": "2025-08-29T02:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV014",
+            "lokasi": "Gondangdia",
+            "waktu": "2025-08-29T03:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV015",
+            "lokasi": "Pasar Baru",
+            "waktu": "2025-08-29T04:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV016",
+            "lokasi": "Kemayoran",
+            "waktu": "2025-08-29T05:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV017",
+            "lokasi": "Ancol",
+            "waktu": "2025-08-29T06:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV018",
+            "lokasi": "Mangga Dua",
+            "waktu": "2025-08-29T07:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV019",
+            "lokasi": "Glodok",
+            "waktu": "2025-08-29T08:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV020",
+            "lokasi": "Kota Tua",
+            "waktu": "2025-08-29T09:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV021",
+            "lokasi": "Pluit",
+            "waktu": "2025-08-29T10:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV022",
+            "lokasi": "Muara Karang",
+            "waktu": "2025-08-29T11:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV023",
+            "lokasi": "Pantai Indah Kapuk",
+            "waktu": "2025-08-29T12:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV024",
+            "lokasi": "Kelapa Gading",
+            "waktu": "2025-08-29T13:00",
+            "status": "Terekam"
+        },
+        {
+            "id_rekaman": "CCTV025",
+            "lokasi": "Stasiun Gambir",
+            "waktu": "2025-08-29T14:00",
+            "status": "Terekam"
+        }
+    ],
+    "data_laporan_masyarakat": [
+        {
+            "id_laporan": "L001",
+            "pelapor": "Budi",
+            "isi": "Ada bentrokan di depan kampus",
+            "waktu": "2025-08-28T13:30"
+        },
+        {
+            "id_laporan": "L002",
+            "pelapor": "Sari",
+            "isi": "Aparat memukul demonstran",
+            "waktu": "2025-08-28T14:15"
+        },
+        {
+            "id_laporan": "L003",
+            "pelapor": "Rizal",
+            "isi": "Jalan ditutup oleh massa",
+            "waktu": "2025-08-28T14:45"
+        },
+        {
+            "id_laporan": "L004",
+            "pelapor": "Dina",
+            "isi": "Ada kerusakan fasilitas umum",
+            "waktu": "2025-08-28T15:00"
+        },
+        {
+            "id_laporan": "L005",
+            "pelapor": "Tono",
+            "isi": "Suara tembakan terdengar",
+            "waktu": "2025-08-28T15:30"
+        },
+        {
+            "id_laporan": "L006",
+            "pelapor": "Wati",
+            "isi": "Demonstran mulai membubarkan diri",
+            "waktu": "2025-08-28T16:00"
+        },
+        {
+            "id_laporan": "L007",
+            "pelapor": "Joko",
+            "isi": "Polisi menutup akses jalan",
+            "waktu": "2025-08-28T16:30"
+        },
+        {
+            "id_laporan": "L008",
+            "pelapor": "Lina",
+            "isi": "Ada korban luka ringan",
+            "waktu": "2025-08-28T17:00"
+        },
+        {
+            "id_laporan": "L009",
+            "pelapor": "Eka",
+            "isi": "Mobil terbakar di tengah jalan",
+            "waktu": "2025-08-28T17:30"
+        },
+        {
+            "id_laporan": "L010",
+            "pelapor": "Fajar",
+            "isi": "Demonstran membawa spanduk besar",
+            "waktu": "2025-08-28T18:00"
+        },
+        {
+            "id_laporan": "L011",
+            "pelapor": "Nina",
+            "isi": "Ada orasi dari mahasiswa",
+            "waktu": "2025-08-28T18:30"
+        },
+        {
+            "id_laporan": "L012",
+            "pelapor": "Rudi",
+            "isi": "Polisi menembakkan gas air mata",
+            "waktu": "2025-08-28T19:00"
+        },
+        {
+            "id_laporan": "L013",
+            "pelapor": "Dewi",
+            "isi": "Massa mulai ricuh",
+            "waktu": "2025-08-28T19:30"
+        },
+        {
+            "id_laporan": "L014",
+            "pelapor": "Bayu",
+            "isi": "Ada provokator di tengah massa",
+            "waktu": "2025-08-28T20:00"
+        },
+        {
+            "id_laporan": "L015",
+            "pelapor": "Lilis",
+            "isi": "Demonstran duduk di jalan",
+            "waktu": "2025-08-28T20:30"
+        },
+        {
+            "id_laporan": "L016",
+            "pelapor": "Taufik",
+            "isi": "Polisi mengamankan beberapa orang",
+            "waktu": "2025-08-28T21:00"
+        },
+        {
+            "id_laporan": "L017",
+            "pelapor": "Nani",
+            "isi": "Ada wartawan terluka",
+            "waktu": "2025-08-28T21:30"
+        },
+        {
+            "id_laporan": "L018",
+            "pelapor": "Yoga",
+            "isi": "Suasana mulai kondusif",
+            "waktu": "2025-08-28T22:00"
+        },
+        {
+            "id_laporan": "L019",
+            "pelapor": "Dian",
+            "isi": "Lampu jalan padam",
+            "waktu": "2025-08-28T22:30"
+        },
+        {
+            "id_laporan": "L020",
+            "pelapor": "Hendra",
+            "isi": "Ada kerusakan kendaraan",
+            "waktu": "2025-08-28T23:00"
+        },
+        {
+            "id_laporan": "L021",
+            "pelapor": "Maya",
+            "isi": "Demonstran mulai pulang",
+            "waktu": "2025-08-28T23:30"
+        },
+        {
+            "id_laporan": "L022",
+            "pelapor": "Dian",
+            "isi": "Polisi berjaga di lokasi",
+            "waktu": "2025-08-29T00:00"
+        },
+        {
+            "id_laporan": "L023",
+            "pelapor": "Rina",
+            "isi": "Ada ambulans datang",
+            "waktu": "2025-08-29T00:30"
+        },
+        {
+            "id_laporan": "L024",
+            "pelapor": "Andi",
+            "isi": "Tenda darurat didirikan",
+            "waktu": "2025-08-29T01:00"
+        },
+        {
+            "id_laporan": "L025",
+            "pelapor": "Rizal",
+            "isi": "Kebakaran di jalan utama",
+            "waktu": "2025-08-29T01:30"
+        }
+    ],
+    "data_lokasi_kejadian": [
+        {
+            "id_lokasi": "LOC001",
+            "nama_tempat": "Gedung DPR",
+            "koordinat": "-6.186,106.829"
+        },
+        {
+            "id_lokasi": "LOC002",
+            "nama_tempat": "Universitas Indonesia",
+            "koordinat": "-6.365,106.827"
+        },
+        {
+            "id_lokasi": "LOC003",
+            "nama_tempat": "Monumen Nasional",
+            "koordinat": "-6.175,106.827"
+        },
+        {
+            "id_lokasi": "LOC004",
+            "nama_tempat": "Stasiun Gambir",
+            "koordinat": "-6.177,106.829"
+        },
+        {
+            "id_lokasi": "LOC005",
+            "nama_tempat": "Bundaran HI",
+            "koordinat": "-6.193,106.820"
+        },
+        {
+            "id_lokasi": "LOC006",
+            "nama_tempat": "Sarinah",
+            "koordinat": "-6.190,106.823"
+        },
+        {
+            "id_lokasi": "LOC007",
+            "nama_tempat": "Tanah Abang",
+            "koordinat": "-6.194,106.812"
+        },
+        {
+            "id_lokasi": "LOC008",
+            "nama_tempat": "Senayan",
+            "koordinat": "-6.218,106.801"
+        },
+        {
+            "id_lokasi": "LOC009",
+            "nama_tempat": "Slipi",
+            "koordinat": "-6.200,106.800"
+        },
+        {
+            "id_lokasi": "LOC010",
+            "nama_tempat": "Palmerah",
+            "koordinat": "-6.208,106.798"
+        },
+        {
+            "id_lokasi": "LOC011",
+            "nama_tempat": "Kuningan",
+            "koordinat": "-6.227,106.830"
+        },
+        {
+            "id_lokasi": "LOC012",
+            "nama_tempat": "Menteng",
+            "koordinat": "-6.197,106.832"
+        },
+        {
+            "id_lokasi": "LOC013",
+            "nama_tempat": "Cikini",
+            "koordinat": "-6.193,106.841"
+        },
+        {
+            "id_lokasi": "LOC014",
+            "nama_tempat": "Gondangdia",
+            "koordinat": "-6.190,106.838"
+        },
+        {
+            "id_lokasi": "LOC015",
+            "nama_tempat": "Pasar Baru",
+            "koordinat": "-6.165,106.831"
+        },
+        {
+            "id_lokasi": "LOC016",
+            "nama_tempat": "Kemayoran",
+            "koordinat": "-6.154,106.846"
+        },
+        {
+            "id_lokasi": "LOC017",
+            "nama_tempat": "Ancol",
+            "koordinat": "-6.123,106.845"
+        },
+        {
+            "id_lokasi": "LOC018",
+            "nama_tempat": "Mangga Dua",
+            "koordinat": "-6.136,106.832"
+        },
+        {
+            "id_lokasi": "LOC019",
+            "nama_tempat": "Glodok",
+            "koordinat": "-6.143,106.814"
+        },
+        {
+            "id_lokasi": "LOC020",
+            "nama_tempat": "Kota Tua",
+            "koordinat": "-6.135,106.813"
+        },
+        {
+            "id_lokasi": "LOC021",
+            "nama_tempat": "Pluit",
+            "koordinat": "-6.123,106.789"
+        },
+        {
+            "id_lokasi": "LOC022",
+            "nama_tempat": "Muara Karang",
+            "koordinat": "-6.118,106.775"
+        },
+        {
+            "id_lokasi": "LOC023",
+            "nama_tempat": "Pantai Indah Kapuk",
+            "koordinat": "-6.112,106.745"
+        },
+        {
+            "id_lokasi": "LOC024",
+            "nama_tempat": "Kelapa Gading",
+            "koordinat": "-6.150,106.910"
+        },
+        {
+            "id_lokasi": "LOC025",
+            "nama_tempat": "Terminal Kampung Rambutan",
+            "koordinat": "-6.313,106.886"
+        }
+    ]
+}
